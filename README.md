@@ -14,7 +14,8 @@ Your choice:
 ///////////////////////////////////////////////////////////////////////
 
 
-**1. You enter 1 to run the hill climbing algorithm.
+**1. You enter 1 to run the hill climbing algorithm.**
+
 	1. Enter size of the board you want to work with 
 		- if you enter 8, the board will be 8x8
 
@@ -26,7 +27,8 @@ Your choice:
 
 
 
-**2. You enter 2 to run the genetic algorithm
+**2. You enter 2 to run the genetic algorithm**
+
 	1. Enter size of the board you want to work with 
 		- if you enter 8, the board will be 8x8
 
@@ -43,5 +45,6 @@ Your choice:
 
 
 
-**3. You enter 3 to exit the program
+**3. You enter 3 to exit the program**
+
 	1. Program closed
