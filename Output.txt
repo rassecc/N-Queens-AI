@@ -1,0 +1,320 @@
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+Your choice: 1
+
+Enter size of board? : 20
+How many problems to create? : 200
+Print paths? (true or false) : false
+
+Finished 200 games
+Average amount of moves to complete: 10.36
+Average search cost of the boards: 4316.8
+Average run time : 2.107874825 ms
+
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+Your choice: 2
+
+Enter size of board? : 20
+How many problems to create? : 200
+How many items in initial population? :100
+Enter the mutatation chance (0.1 - 1.0) : 0.5
+Print solutions of each or get averages of all? (1 or 2) : 2
+
+Average search cost of the boards: 0.0
+Average amount of moves to complete: 1346.85
+Average run time : 95.55472969 ms
+
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+Your choice: 
+
+
+
+
+
+
+///////////////////////////////NEXT TEST/////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+Your choice: 1
+
+Enter size of board? : 5
+How many problems to create? : 3
+Print paths? (true or false) : true
+
+Move #0
+. . . Q . 
+. . . . Q 
+. . Q . . 
+. Q . . . 
+Q . . . . 
+
+Move #1
+. . . Q . 
+. . . . Q 
+. . . . Q 
+. Q . . . 
+Q . . . . 
+
+Move #2
+. . . Q . 
+Q . . . . 
+. . . . Q 
+. Q . . . 
+Q . . . . 
+
+Move #3
+. . . Q . 
+Q . . . . 
+. . . . Q 
+. Q . . . 
+. Q . . . 
+
+Move #0
+. . . Q . 
+. . Q . . 
+Q . . . . 
+Q . . . . 
+. . Q . . 
+
+Move #1
+. . . . Q 
+. . Q . . 
+Q . . . . 
+Q . . . . 
+. . Q . . 
+
+Move #2
+. . . . Q 
+. . Q . . 
+Q . . . . 
+Q . . . . 
+. . . Q . 
+
+Move #3
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. . . Q . 
+
+Move #4
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+Board 1 complete: 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+Amount of moves to complete: 4
+Number of nodes created for this problem: 100
+Runtime: 0.43008 ms
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Move #0
+. Q . . . 
+. Q . . . 
+. . Q . . 
+. . . Q . 
+. Q . . . 
+
+Move #1
+. Q . . . 
+Q . . . . 
+. . Q . . 
+. . . Q . 
+. Q . . . 
+
+Move #2
+. . Q . . 
+Q . . . . 
+. . Q . . 
+. . . Q . 
+. Q . . . 
+
+Move #3
+. . Q . . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+Move #4
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+Board 2 complete: 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+Amount of moves to complete: 4
+Number of nodes created for this problem: 100
+Runtime: 0.325973 ms
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Move #0
+Q . . . . 
+. . Q . . 
+. . Q . . 
+. . . Q . 
+. Q . . . 
+
+Move #1
+Q . . . . 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+Move #2
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+Board 3 complete: 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+Amount of moves to complete: 2
+Number of nodes created for this problem: 60
+Runtime: 0.173653 ms
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+
+
+Your choice: 
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////NEXT TEST/////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+Your choice: 2
+
+Enter size of board? : 8
+How many problems to create? : 3
+How many items in initial population? :100
+Enter the mutatation chance (0.1 - 1.0) : 0.5
+Print solutions of each or get averages of all? (1 or 2) : 1
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Board 1 complete: 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+Number of nodes created for this problem: 0
+Runtime: 69.620788 ms
+Amount of moves to complete: 96
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Board 2 complete: 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Number of nodes created for this problem: 0
+Runtime: 12.980031 ms
+Amount of moves to complete: 132
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Board 3 complete: 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+. Q . . . . . . 
+Number of nodes created for this problem: 0
+Runtime: 130.489378 ms
+Amount of moves to complete: 2553
+
+Enter a choice
+1) Run the Straight-forward steepest-ascent hill climbing algortihm
+2) Run the genetic algorithm
+3) Exit the program
+
+Your choice: 
